@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mon_gkb_mk1",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_mk1"
+  },
+  {
+    "id": "mon_gkb_mk2",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_mk2"
+  },
+  {
+    "id": "mon_gkb_mk3",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_mk3"
+  },
+  {
+    "id": "mon_gb_pdw",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gb_pdw"
+  },
+  {
+    "id": "mon_gb_brs",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gb_brs"
+  },
+  {
+    "id": "mon_gb_inctank",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gb_inctank"
+  },
+  {
+    "id": "mon_gb_polflyer",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gb_polflyer"
+  },
+  {
+    "id": "mon_gb_chipupa",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gb_chipupa"
+  }
+]

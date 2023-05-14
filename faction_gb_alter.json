@@ -1,0 +1,15 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "zombie",
+    "friendly": [ "blob", "cult", "zombie_aquatic" ],
+    "neutral": [ "small_animal", "insect", "fish", "gkb_fac_bot" ],
+    "by_mood": "bee"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "gkb_fac_bot",
+    "base_faction": "bot",
+    "neutral": [ "bot", "small_animal", "military", "zombie" ]
+  }
+]

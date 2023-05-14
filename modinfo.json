@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "biosynth_zombie_mod",
+    "name": "Biosynth robots zombie nonviolence",
+    "authors": [ "Jolmar7" ],
+    "maintainers": [ "Jolmar7" ],
+    "description": "Prevents most of the robots added by biosynth robots and zombies from fighting.",
+    "category": "misc_additions",
+    "dependencies": [ "bn", "gekkobots" ]
+  }
+]

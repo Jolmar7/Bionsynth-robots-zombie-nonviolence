@@ -1,0 +1,190 @@
+[
+  {
+    "id": "mon_gkb_newt",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_newt"
+  },
+  {
+    "id": "mon_gkb_newt_upg",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_newt_upg"
+  },
+  {
+    "id": "mon_gkb_newt_p",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_newt_p"
+  },
+  {
+    "id": "mon_gkb_newt_m",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_newt_m"
+  },
+  {
+    "id": "mon_gkb_newt_e",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_newt_e"
+  },
+  {
+    "id": "mon_gkb_pbota",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_pbota"
+  },
+  {
+    "id": "mon_gkb_pbotb",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_pbotb"
+  },
+  {
+    "id": "mon_gkb_pbotc",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_pbotc"
+  },
+
+  {
+    "id": "mon_gkb_pbotd",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_pbotd"
+  },
+  {
+    "id": "mon_gkb_nursebot_a",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_nursebot_a"
+  },
+  {
+    "id": "mon_gkb_nursebot_b",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_nursebot_b"
+  },
+  {
+    "id": "mon_gkb_nursebot_c",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_nursebot_c"
+  },
+  {
+    "id": "mon_gkb_nursebot_d",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_nursebot_d"
+  },
+  {
+    "id": "mon_gkb_utbot",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_utbot"
+  },
+  {
+    "id": "mon_gkb_utbot_g",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_utbot_g"
+  },
+  {
+    "id": "mon_gkb_utbot_m",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_utbot_m"
+  },
+  {
+    "id": "mon_gkb_zx_19",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_zx_19"
+  },
+  {
+    "id": "mon_gkb_clib_a",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_a"
+  },
+  {
+    "id": "mon_gkb_clib_b",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_b"
+  },
+  {
+    "id": "mon_gkb_clib_c",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_c"
+  },
+  {
+    "id": "mon_gkb_clib_d",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_d"
+  },
+  {
+    "id": "mon_gkb_clib_e",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_e"
+  },
+  {
+    "id": "mon_gkb_clib_f",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_f"
+  },
+  {
+    "id": "mon_gkb_gymaid",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_gymaid"
+  },
+  {
+    "id": "mon_gkb_compbot",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_compbot"
+  },
+  {
+    "id": "mon_gkb_hisbota",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_hisbota"
+  },
+  {
+    "id": "mon_gkb_dawbot",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_dawbot"
+  },
+  {
+    "id": "mon_gkb_xedra_newt",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_xedra_newt"
+  },
+  {
+    "id": "mon_gkb_comocon",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_comocon"
+  },
+  {
+    "id": "mon_gkb_clib_a_up",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_a_up"
+  },
+  {
+    "id": "mon_gkb_clib_a_uc",
+    "type": "MONSTER",
+    "default_faction": "gkb_fac_bot",
+    "copy-from": "mon_gkb_clib_a_uc"
+  }
+
+]
